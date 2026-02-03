@@ -14,9 +14,9 @@ HACK-CAMERA is a sophisticated phishing tool that captures real-time snapshots f
 
 ## 🛠️ Installation
 
-```bash
+```bash        
 # Clone the repo
-git clone [https://github.com/Mirzamehran1234/cam+loc.git](https://github.com/Mirzamehran1234/cam+loc.git)
+git clone https://github.com/Mirzamehran1234/-Hack--Camra-loucation
 cd cam+loc
 
 # Smart Setup (Detects OS, Arch, and installs all dependencies)
